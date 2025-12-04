@@ -1,0 +1,14 @@
+# Quantum Ising 3D Simulator - Requirements
+# Python 3.8+
+
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Optional: Enhanced features
+# jupyter>=1.0.0          # For interactive notebooks
+# pytest>=7.0.0           # For testing
+# numba>=0.55.0           # For JIT compilation (future optimization)
