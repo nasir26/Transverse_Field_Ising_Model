@@ -1,0 +1,16 @@
+# Quantum 3D Transverse Field Ising Model Simulation
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Numba for JIT compilation (QMC acceleration)
+numba>=0.55.0
+
+# Optional: for parallel computing
+joblib>=1.1.0
