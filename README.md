@@ -117,3 +117,25 @@ The simulation generates:
 ## License
 
 This code is provided for educational and research purposes.
+
+---
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@misc{nasirali_transverse_field_isi,
+  author    = {Nasir Ali},
+  title     = {Transverse Field Ising Model},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/nasir26/Transverse_Field_Ising_Model},
+  note      = {Centre for Development of Advanced Computing (C-DAC), Noida, India}
+}
+```
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.\
+© 2026 Nasir Ali, C-DAC Noida. All rights reserved.
